@@ -1,0 +1,16 @@
+22c22
+< 	        	File dir = new File("../output3/");	        	
+---
+> 	        	File dir = new File("../output/");	        	
+33c33,34
+< 		    	            	Pattern acronyms = Pattern.compile("\\(?[a-zA-Z]\\.[a-zA-Z]\\.");
+---
+> 		    	            	Pattern acronyms = Pattern.compile("[a-zA-Z]\\.[a-zA-Z]\\.");
+> 					//Pattern acronyms = Pattern.compile("(\\w\\.){2}");
+59a61
+> 								
+61c63,64
+< 		    	            						|| num3.matches() || one.matches() || two.matches() || more.matches() || ell.matches()) {	    	            					
+---
+> 		    	            						|| num3.matches() || one.matches() || two.matches() || more.matches() 
+> 										|| ell.matches()) {	    	            					

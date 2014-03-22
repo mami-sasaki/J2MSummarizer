@@ -1,0 +1,11 @@
+gar3 :(OCD)
+init_adv: also 
+gar1 :, 
+gar3 :(302):    &UR; This category is for individuals whose sexual interests are directed primarily towards objects other than people of the opposite sex, toward sexual acts not usually associated with coitus .... &LR;    The gay-rights movement ultimately pressured the American Psychiatric Association to eliminate homosexuality as a mental disorder in subsequent editions of the DSM. Cross-dressing males, however, are still categorized as mentally ill if they exhibit the signs of Transvestic Fetishism (302.3)
+init_adv: For example, 
+gar2 :``
+gar3 :(305.90): Recent consumption of caffeine in excess of 259 mg (e.g. more than 2-3 cups of brewed coffee ...)    Nicotine Dependence Disorder (305.10): Tolerance to nicotine is manifested by the absence of nausea, dizziness and other characteristic symptoms ....    Nicotine Withdrawal Disorder 292.0: Abrupt cessation of nicotine use ((resulting in))
+init_adv: also 
+''
+init_adv: In addition, 
+adv1: , Rapoport said.
